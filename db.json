@@ -1,0 +1,33 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "hash": "sadhjsadhasjk-dsdnsj",
+      "img": "jj-830e6900cd0150a99675a52b4b78c0f5pngcarro.png",
+      "name": "Acessórios para Carro",
+      "sigle": "ACESS"
+    },
+    {
+      "id": "2",
+      "hash": "sadhjsadhasjk-sdsds",
+      "img": "jj-190a9d1210ef90395a8db53caeb63454.png",
+      "name": "Adaptadores",
+      "sigle": "ADAPT"
+    }
+  ],
+  "product":[
+    {
+      "category_hash": "37325afa335cf6ff08fac399c77ec633",
+      "category_nome": "Bloco de Anotações",
+      "description": "Caderno A5 com capa dura em rPET. Contém 96 folhas pautadas em papel cor marfim proveniente de gestão florestal sustentável, fita separadora, elástico e bolso em papel na parte traseira da capa. 140 x 210 mm",
+      "hash":"15864d2b5fe211523503fa689095fb3d",
+      "img": "[{\"imagem\": \"JJS93276_set.jpg\"}, {\"imagem\": \"JJS93276_104.jpg\"}, {\"imagem\": \"JJS93276_104-a.jpg\"}, {\"imagem\": \"JJS93276_105.jpg\"}, {\"imagem\": \"JJS93276_133.jpg\"}]",
+      "name": "Caderno A5",
+      "price": "23.56200000000000",
+      "price_refence": "1000",
+      "minimumQuantity": "50",
+      "refence": "JJS-93276"
+    }
+  ]
+  
+}
